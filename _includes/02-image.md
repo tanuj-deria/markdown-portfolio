@@ -1,1 +1,1 @@
-![Image of goku] (https://toxicfandomsandhatedoms.miraheze.org/wiki/File:Goku.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
